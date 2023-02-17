@@ -1,0 +1,9 @@
+official: nimal,nimal@gmail.com,ceo
+official_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Personal: sunil,suni,sunil@gmail.com,2000/10/10
+Personal: Charithma, chari,dulminiweerasinghe@gmail.com,2006/08/20
+official: saduni,saduni@gmail.com,ceo
+official_friend: nadun,nadun@gmail.com,manager,1999/05/12
+Personal: maleesha,maleesha,leeshweerasinghe@gmail.com,2000/08/10
+Personal: ravindi,ravi,ravindiweerasinghe60@gmail.com,2000/08/20
+official: sanali,sanali@gmail.com,accountant
