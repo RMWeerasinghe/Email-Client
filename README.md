@@ -1,6 +1,18 @@
-# Email-Client
-This is a java based command line e-mail client application used as an assignment for CS1040 Program Construction module.
+# Email Client 📧
 
-## Description
+## Table of Contents
 
-This is a =n email client application which capable of sending an email when the recipients and the message is given via command line input. In addition this email client keeps a list of personal and official reciepients and send birthday wishes to the reciepients on their birthdays and prints all the recipients who have birthdays on a given date. Also it supports adding new recipients via command line arguments. Futhermore it stores the sent messages in the hard disk and allows user to get details of emails sent on a particular date given as command line input.
+- [About](#about)
+- [Features](#features)
+
+## About
+This is a command line-based email client implemented in Java. This project utilizes basic OOP principles, concepts of design patterns such as singleton and factory methods and object serialization to implement the functional requirements. 
+
+## Features
+ * Adding new recipients.
+ * Sending emails to the saved recipients.
+ * Sending pre-determined birthday wishes to the recipients.
+ * Printing out all the names of recipients who have their birthday set to the current date
+ * Printing out details (subject and recipient) of all the emails sent on a date specified by user input
+ * Printing out the number of recipient objects in the application
+
